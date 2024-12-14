@@ -1,11 +1,10 @@
 public class Demo{
 
-String a = "Hari Bol!"
+  String a ="Radha Krishna!"
 
-public static void main (String[] args){
+  public static void main (String[] args){
+    System.out.println(a);
 
-System.out.println(a);
-
+  }
 }
 
-}
